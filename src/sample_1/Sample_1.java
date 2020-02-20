@@ -16,6 +16,7 @@ public class Sample_1 {
      */
     public static void main(String[] atrgs) {
      System.out.println("Hello There");
+        System.out.println("Pull");
     }
     
 }
